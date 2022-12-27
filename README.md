@@ -1,5 +1,10 @@
 # SocialMedia
-initial commit
+•	SocialMedia is Native Mobile app, Using Firebase as a back-end server.                       
+•	SocialMedia is using Firebase Authentication, Firebase Realtime Database and Firebase Cloud Storage.                    
+• SocialMedia help people to connect with each other by sending and receiving messages.       
+• Object-oriented programming (OOP), Data architecture, Database Designing.            
+•	Programming language:- Java, XML.  
+
 <p float="left">
 <img src="app/src/main/res/drawable/03511608-27D1-4E6F-B0FB-5D71FAEE89D6.jpeg" width="250" height="400"/>
   <img src="app/src/main/res/drawable/4AD1B741-33BD-4CBA-AAF3-444557904425.jpeg" width="250" height="400"/>
