@@ -93,8 +93,6 @@ public class ChatActivity extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(linearLayoutManager);
 
-
-
         //on clicking user from user list we have passed that user's UID using intent so get that uid here to get the profile
         //pic ,name,and start chat with that user
         Intent intent =getIntent();
@@ -198,7 +196,7 @@ query.addValueEventListener(new ValueEventListener() {
 
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
-                Toast.makeText(ChatActivity.this, "cancelled", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(ChatActivity.this, "cancelled", Toast.LENGTH_SHORT).show();
             }
         });
     }
@@ -250,6 +248,7 @@ query.addValueEventListener(new ValueEventListener() {
         hashMap.put("message",message);
         hashMap.put("timestamp",timestamp);
         hashMap.put("isSeen",false);
+        hashMap.put("UserName","");
 
         hashMap.put("message",messageEt.getText().toString());
         databaseReference.child("Chats").push().setValue(hashMap);
@@ -275,7 +274,7 @@ query.addValueEventListener(new ValueEventListener() {
     protected void onStart() {
         checkUserStatus();
         super.onStart();
-        Toast.makeText(ChatActivity.this,"Started",Toast.LENGTH_SHORT).toString();
+      //  Toast.makeText(ChatActivity.this,"Started",Toast.LENGTH_SHORT).toString();
     }
 
     @Override
@@ -284,44 +283,6 @@ query.addValueEventListener(new ValueEventListener() {
         userRefForSeen.removeEventListener(seenListener);
     }
 
-    private void xx() {
-        //search user to get that user's info
-        Query userQuery =usersDbRef.orderByChild("uid").equalTo(hisUid);
-        //get user picture and name
-
-        userQuery.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot) {
-                Toast.makeText(ChatActivity.this, "hbfksdjfvb "+String.valueOf(snapshot.getChildrenCount()), Toast.LENGTH_SHORT).show();
-                // int name=snapshot.getChildrenCount();
-                //check until required ifo is received
-                for (DataSnapshot ds: snapshot.getChildren()){
-                    //get data
-                    String name = "" + ds.child("name").getValue();
-                    hisImage=""+ds.child("image").getValue();
-                    Toast.makeText(ChatActivity.this, "hbfksdjfvb zdlxbvz ", Toast.LENGTH_SHORT).show();
-                    //set data
-                    nameTv.setText(name);
-                    try{
-                        //imgage received setit to image view in toolbar
-                        Picasso.get().load(hisImage).placeholder(R.drawable.ic_face_foreground).into(profileIv);
-
-                    }
-                    catch (Exception e){
-                        //there is exception getting picture , set default image
-                        Picasso.get().load(R.drawable.ic_face_foreground).into(profileIv);
-
-                    }
-//will set the image later on before 9 min
-                }//TextV.setText(name+"");
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -339,26 +300,5 @@ query.addValueEventListener(new ValueEventListener() {
         }
         return super.onOptionsItemSelected(item);
     }
-    void xx1(){
-        FirebaseUser fUser = FirebaseAuth. getInstance().getCurrentUser();
 
-        DatabaseReference ref = FirebaseDatabase.getInstance().getReference( "Users");
-        Query query=ref.orderByChild("uid").equalTo(fUser.getUid());
-        query.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot) {
-                for(DataSnapshot ds:snapshot.getChildren()){
-                   // Toast.makeText(MainActivity.this, ds.child("name").getValue()+"", Toast.LENGTH_SHORT).show();
-                nameTv.setText(ds.child("name").getValue()+"");
-                }
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-
-
-    }
 }

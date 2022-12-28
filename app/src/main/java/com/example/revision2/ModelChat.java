@@ -1,7 +1,7 @@
 package com.example.revision2;
 
 public class ModelChat {
-    String message, receiver, sender, timestamp;
+    String message, receiver, sender, timestamp,image,UserName;
 
     boolean isSeen;
 
@@ -13,8 +13,32 @@ public class ModelChat {
         this.timestamp = timestamp;
 
     }
+    public ModelChat(String message, String sender, String timestamp, String image, String UserName) {
+        this.message = message;
+        this.sender=sender;
+        this.timestamp = timestamp;
+        this.image=image;
+        this.UserName=UserName;
+    }
+    public String getUserName() {
+        return UserName;
+    }
+
+    public void setUserName(String user) {
+        this.UserName = user;
+    }
+
+
 
     public  ModelChat() {
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public String getMessage() {

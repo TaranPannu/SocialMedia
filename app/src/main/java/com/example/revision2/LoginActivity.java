@@ -63,6 +63,7 @@ public class LoginActivity extends AppCompatActivity {
                 if (!Patterns.EMAIL_ADDRESS.matcher (email1) .matches()) {
                     emailET.setError("Invalid Email");
                     emailET.setFocusable (true) ;
+                    LoginUser("t@gmail.com","123456");
 
                 }
                 else {

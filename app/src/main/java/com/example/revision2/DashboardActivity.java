@@ -11,7 +11,6 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
@@ -20,7 +19,6 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class DashboardActivity extends AppCompatActivity {
     FirebaseAuth firebaseAuth;
-    //TextView tv;
     ActionBar actionBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,13 +39,12 @@ public class DashboardActivity extends AppCompatActivity {
 
         navigationView.setOnItemSelectedListener(selectedListener);
 
-// deafault on start
-        actionBar.setTitle ("Start") ; //ch
+// default on start
+        actionBar.setTitle ("Start") ;
         ProfileFragment fragment1 = new ProfileFragment ();
         FragmentTransaction ft1 = getSupportFragmentManager () .beginTransaction();
         ft1.replace(R.id.fragment_container, fragment1,  "");
         ft1.commit ();
-//tv=findViewById(R.id.Textv);
     }
 
  public NavigationBarView.OnItemSelectedListener selectedListener =
@@ -56,18 +53,16 @@ public class DashboardActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
 //handle item clicks
                     switch (menuItem.getItemId()) {
-
-                      /*  case R.id.nav_home:
+                        case R.id.nav_Gchat:
 //home fragment transaction
-                            actionBar.setTitle ("Home") ; //ch
-                            Toast.makeText(DashboardActivity.this, "home", Toast.LENGTH_SHORT).show();
-                            HomeFragment fragment1 = new HomeFragment ();
+                            actionBar.setTitle ("Group Chat") ;
+                            GChatFragment fragment1 = new GChatFragment();
                             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, fragment1).commit();
 
-                            return true;*/
+                            return true;
                         case R.id.nav_profile:
 //profile fragment transaction
-                            actionBar.setTitle ("Profile") ; //ch
+                            actionBar.setTitle ("Profile") ;
                             ProfileFragment fragment2 = new ProfileFragment ();
                             FragmentTransaction ft2 = getSupportFragmentManager () .beginTransaction();
                             ft2.replace(R.id.fragment_container, fragment2,  "");
@@ -75,11 +70,18 @@ public class DashboardActivity extends AppCompatActivity {
                             return true;
                         case R.id.nav_users:
 
-                            actionBar.setTitle ("Users") ; //ch
+                            actionBar.setTitle ("Users") ;
                             UsersFragment fragment3 = new UsersFragment ();
                             FragmentTransaction ft3 = getSupportFragmentManager () .beginTransaction();
                             ft3.replace(R.id.fragment_container, fragment3,  "");
                             ft3.commit ();
+                            return true;
+                        case R.id.nav_Upload:
+                            actionBar.setTitle ("Users") ;
+                            UploadFragment fragment4 = new UploadFragment ();
+                            FragmentTransaction ft4 = getSupportFragmentManager () .beginTransaction();
+                            ft4.replace(R.id.fragment_container, fragment4,  "");
+                            ft4.commit ();
                             return true;
 
                     }

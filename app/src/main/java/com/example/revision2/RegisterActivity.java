@@ -127,21 +127,20 @@ private Uri mImageUri;
 
                 if(task.isSuccessful()){
                     username=UserName.getText().toString().trim();
-                    username=username.substring(0, 1).toUpperCase() + username.substring(1);
-
+                    username=username.substring(0, 1).toUpperCase() + username.substring(1);//to first letter capital of each user name
                     FirebaseUser user=mAuth.getCurrentUser();
                     String email = user.getEmail();
                     String uid = user.getUid();
                     HashMap<Object, String> hashMap = new HashMap<>();
                     hashMap.put ("email", email);
                     hashMap.put ("uid", uid);
-                    hashMap.put ("name", ""+username); //will add later (e.g. edit profile)
-                    hashMap.put ("phone", ""); //will add later (e.g. edit profile)
+                    hashMap.put ("name", ""+username);
+                    hashMap.put ("phone", "");
                     if (mImageUri != null)
-                        hashMap.put ("image",(fileReference+"").substring(32,(fileReference+"").length())+""); //will add later (e.g. edit profile)
+                        hashMap.put ("image",(fileReference+"").substring(32,(fileReference+"").length())+"");// basically we only need "uploads/1672017241061.jpg"
+                    //this much part to refer to storage in firebase
 else
-                        hashMap.put ("image","uploads/1672017241061.jpg"); //will add later (e.g. edit profile)
-
+                        hashMap.put ("image","uploads/1672017241061.jpg"); // default image stored in firebase for users not uploading there images
                     FirebaseDatabase database = FirebaseDatabase.getInstance();
                     DatabaseReference reference=database.getReference("Users");
                     reference.child(uid).setValue(hashMap);
@@ -158,13 +157,14 @@ else
         }).addOnFailureListener(new OnFailureListener() {
             @Override
             public void onFailure(@NonNull Exception e) {
+                Toast.makeText(RegisterActivity.this, "Error: "+e, Toast.LENGTH_SHORT).show();
 
             }
         });   }
 
     private void openFileChooser() {
         Intent intent = new Intent();
-        intent.setType("image/*");
+        intent.setType("images/*");
         intent.setAction(Intent.ACTION_GET_CONTENT);
         startActivityForResult(intent, PICK_IMAGE_REQUEST);
     }
@@ -194,8 +194,8 @@ private String getFileExtension(Uri uri) {//To get extension of the file
 private void uploadFile() {
         if (mImageUri != null) {
              fileReference = mStorageRef.child(System.currentTimeMillis()
-                    + "." + getFileExtension(mImageUri));
-
+                    + "." + getFileExtension(mImageUri));//here we are creating a unique name to store file in a firebase storage "1672017241061.jpg" later on we will
+            //use it in realtime database to refer to particular storage in firebase
             mUploadTask = fileReference.putFile(mImageUri).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
                 @Override
                 public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {

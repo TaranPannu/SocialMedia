@@ -68,8 +68,8 @@ public class ExampleAdapter extends RecyclerView.Adapter<ExampleAdapter.ExampleV
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override
                     public void onFailure(@NonNull Exception e) {
-                          Toast.makeText(mContext, "Failed to retirieve image", Toast.LENGTH_SHORT).show();
-                        Picasso.get().load(R.drawable.ic_back_img).into(holder.image);
+                        //  Toast.makeText(mContext, "Failed to retirieve image", Toast.LENGTH_SHORT).show();
+                        Picasso.get().load(R.drawable.ic_face_foreground).into(holder.image);
 
                     }
                 });

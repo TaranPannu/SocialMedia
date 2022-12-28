@@ -7,6 +7,7 @@ import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,8 +15,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -109,14 +112,16 @@ I'm gonna retrieve user detail using email*/
 whose key  value equal to signed in email..it will search all nodes ,,where key matches it will
 give detail
 */
-        Query query = databaseReference.orderByChild ("email") .equalTo(user.getEmail());
-        query.addValueEventListener (new ValueEventListener() {
+       // Query query = databaseReference.orderByChild ("email") .equalTo(user.getEmail());
+        databaseReference.addValueEventListener (new ValueEventListener() {
 
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 //checke until required data get
                 for (DataSnapshot ds : dataSnapshot.getChildren()) {
 //get data
+                    if(!ds.child("email").getValue().equals(user.getEmail()))
+                        continue;
                     String name = "" + ds.child("name").getValue();
                     String email = "" + ds.child("email").getValue();
                     String phone = "" + ds.child("phone").getValue();
@@ -126,7 +131,8 @@ give detail
                     nameTv.setText(name);
                     emailTv.setText(email);
                     phoneTv.setText(phone);
-                    try {
+
+                   try {
                         mStorageRef = FirebaseStorage.getInstance().getReference(image);
                          {
                             File file=File.createTempFile("tempfile",".jpg");
@@ -141,7 +147,7 @@ give detail
                                 @Override
                                 public void onFailure(@NonNull Exception e) {
                                   Toast.makeText(getActivity(), "Failed to retirieve"+e, Toast.LENGTH_SHORT).show();
-                                    Picasso.get().load(R.drawable.ic_back_img).into(avatarIv);
+                                    Picasso.get().load(R.drawable.ic_face_foreground).into(avatarIv);
 
                                 }
                             });

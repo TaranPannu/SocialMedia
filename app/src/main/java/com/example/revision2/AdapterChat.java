@@ -70,19 +70,26 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder> {
 //get data
         String message = chatList.get(i).getMessage();
         String timeStamp = chatList.get(i). getTimestamp();
-
-
+      String UserNam=chatList.get(i).getUserName();
+String image=chatList.get(i).getImage();
 //convert time stamp to dd/mm/yyyy hh:mm am/pm
         Calendar cal = Calendar. getInstance(Locale.ENGLISH) ;
         cal.setTimeInMillis (Long. parseLong(timeStamp) ) ;
         String dateTime = DateFormat. format( "dd/MM/yyyy hh:mm aa", cal).toString();
-
-
+if((image+"").equals("null"))
+{image=imageUrl;
+}
 //set data
         myHolder.messageTv.setText (message) ;
         myHolder.timeTv.setText (dateTime) ;
         try {
-            mStorageRef = FirebaseStorage.getInstance().getReference(imageUrl);
+         myHolder.UserName.setText(UserNam+"");
+        }catch (Exception e){
+       //     Toast.makeText(context, "user "+UserNam, Toast.LENGTH_SHORT).show();
+
+        }
+        try {
+            mStorageRef = FirebaseStorage.getInstance().getReference(image);
             {
                 File file=File.createTempFile("tempfile",".jpg");
                 mStorageRef.getFile(file).addOnSuccessListener(new OnSuccessListener<FileDownloadTask.TaskSnapshot>() {
@@ -94,7 +101,7 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder> {
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override
                     public void onFailure(@NonNull Exception e) {
-                        Toast.makeText(context, "Failed to retirieve image", Toast.LENGTH_SHORT).show();
+                    //    Toast.makeText(context, "Failed to retirieve image", Toast.LENGTH_SHORT).show();
                         Picasso.get().load(R.drawable.ic_back_img).into(myHolder.profileIv);
 
                     }
@@ -138,7 +145,7 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder> {
     {
         //views
         ImageView profileIv;
-        TextView messageTv,timeTv,isSeenTv;
+        TextView messageTv,timeTv,isSeenTv,UserName;
 
         public MyHolder(@NonNull View itemView) {
             super(itemView);
@@ -146,7 +153,7 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder> {
             messageTv=itemView.findViewById(R.id.messageTv);
             timeTv=itemView.findViewById(R.id.timeTv);
             isSeenTv=itemView.findViewById(R.id.isSeenTv);
-
+           UserName=(TextView)itemView.findViewById(R.id.Usertv);
         }
     }
 }
