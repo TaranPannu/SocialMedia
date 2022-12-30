@@ -5,7 +5,7 @@
 •	Programming language:- Java, Kotlin, XML.  
 • SocialMedia have features such as group chat, sending and receiving messages, sharing post, updating profile.
 
-Basically I have done this project in java but I'm making new files in kotlin.
+Basically, I have done this project in java but I'm making new files in kotlin.
 
 <p float="left">
   <img src="app/src/main/res/drawable/CB527C68-7B2E-4C29-BAF4-D9D024553788.jpeg" width="250" height="400"/>
