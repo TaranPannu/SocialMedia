@@ -11,15 +11,23 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
+import java.util.HashMap;
 
 public class DashboardActivity extends AppCompatActivity {
     FirebaseAuth firebaseAuth;
     ActionBar actionBar;
+    String myUid;
+    DatabaseReference userRefForSeen;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,7 +38,6 @@ public class DashboardActivity extends AppCompatActivity {
         actionBar.setTitle("Profile");
         firebaseAuth =firebaseAuth.getInstance();
         BottomNavigationView navigationView=findViewById(R.id.navigation);
-
         ColorDrawable colorDrawable
                 = new ColorDrawable(Color.parseColor("#545352"));
         // Set BackgroundDrawable
@@ -77,11 +84,18 @@ public class DashboardActivity extends AppCompatActivity {
                             ft3.commit ();
                             return true;
                         case R.id.nav_Upload:
-                            actionBar.setTitle ("Users") ;
+                            actionBar.setTitle ("Upload Post") ;
                             UploadFragment fragment4 = new UploadFragment ();
                             FragmentTransaction ft4 = getSupportFragmentManager () .beginTransaction();
                             ft4.replace(R.id.fragment_container, fragment4,  "");
                             ft4.commit ();
+                            return true;
+                        case R.id.nav_Post:
+//home fragment transaction
+                            actionBar.setTitle ("Posts") ;
+                            PostFragment fragment5 = new PostFragment();
+                            getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, fragment5).commit();
+
                             return true;
 
                     }
@@ -104,11 +118,20 @@ public class DashboardActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+    void checkOnlineStatus(String status){
+        DatabaseReference dberf= FirebaseDatabase.getInstance().getReference("Users").child(myUid);
+        HashMap<String,Object> v=new HashMap<>();
+        v.put("onlineStatus",status);
+        try {
+            dberf.updateChildren(v);
+        }catch (Exception e){
+            Toast.makeText(this, ""+e, Toast.LENGTH_SHORT).show();
+        }}
     private void checkUserStatus(){
         //get Current user
         FirebaseUser user=firebaseAuth.getCurrentUser();
         if(user!=null){
-
+myUid=user.getUid();
         }else{
             startActivity(new Intent(DashboardActivity.this,MainActivity.class));
             finish();;

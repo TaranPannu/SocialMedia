@@ -45,13 +45,20 @@ public class LoginActivity extends AppCompatActivity {
         LoginBtn=findViewById(R.id.loginBtn);
         notHaveAccntTv=findViewById(R.id.nothave_accountTv);
         mAuth = FirebaseAuth.getInstance();
-
+LoginBtn.setOnLongClickListener(new View.OnLongClickListener() {
+    @Override
+    public boolean onLongClick(View view) {
+        Intent intent = new Intent(LoginActivity.this, KotlinActivity.class);
+        startActivity(intent);
+        return false;
+    }
+});
         ColorDrawable colorDrawable
                 = new ColorDrawable(Color.parseColor("#0f0f0e"));
         // Set BackgroundDrawable
         actionBar = getSupportActionBar();
         actionBar.setBackgroundDrawable(colorDrawable);
-
+actionBar.setTitle("LOGIN");
         progressDialog = new ProgressDialog(this);
 
         LoginBtn.setOnClickListener(new View.OnClickListener() {
@@ -63,7 +70,7 @@ public class LoginActivity extends AppCompatActivity {
                 if (!Patterns.EMAIL_ADDRESS.matcher (email1) .matches()) {
                     emailET.setError("Invalid Email");
                     emailET.setFocusable (true) ;
-                    LoginUser("t@gmail.com","123456");
+               //     LoginUser("t@gmail.com","123456");
 
                 }
                 else {

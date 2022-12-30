@@ -9,8 +9,11 @@
         android:icon="@drawable/ic_users_img"/>
     <item android:id="@+id/nav_Gchat"
         android:title="Group Chat"
-        android:icon="@drawable/ic_home_black" />
+        android:icon="@drawable/ic_chat_img" />
     <item android:id="@+id/nav_Upload"
         android:title="Upload"
         android:icon="@drawable/ic_upload_img" />
+    <item android:id="@+id/nav_Post"
+        android:title="Post"
+        android:icon="@mipmap/ic_reels" />
 </menu>

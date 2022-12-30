@@ -5,6 +5,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.text.format.DateFormat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -37,8 +38,10 @@ import com.squareup.picasso.Picasso;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 
 public class ChatActivity extends AppCompatActivity {
     //view form xml
@@ -58,7 +61,7 @@ public class ChatActivity extends AppCompatActivity {
     DatabaseReference userRefForSeen;
     List<ModelChat> chatList;
     private StorageReference mStorageRef;
-
+TextView on;
  AdapterChat adapterChat;
 
 
@@ -78,7 +81,7 @@ public class ChatActivity extends AppCompatActivity {
         toolbar = (Toolbar)findViewById(R.id.toolbar);
         //setSupportActionBar(toolbar);
       //  toolbar.setTitleTextAppearance(this, R.style.MyTitleTextApperance);
-
+on=findViewById(R.id.online);
         recyclerView =findViewById(R.id.chat_recyclerView);
 //TextV=findViewById(R.id.TextV);
         profileIv =findViewById(R.id.profileIv);
@@ -110,6 +113,16 @@ query.addValueEventListener(new ValueEventListener() {
     public void onDataChange(@NonNull DataSnapshot snapshot) {
         for(DataSnapshot ds:snapshot.getChildren()){
             String txt=ds.child("name").getValue()+"";
+            String online=ds.child("onlineStatus").getValue()+"";
+            if(online.equals("online")){
+                on.setText(online);
+            }else{
+                Calendar cal = Calendar. getInstance(Locale.ENGLISH) ;
+                cal.setTimeInMillis (Long. parseLong(online) ) ;
+                String dateTime = DateFormat. format( "dd/MM/yyyy hh:mm aa", cal).toString();
+                on.setText("Last seen at: "+dateTime);
+
+            }
     //     Toast.makeText(ChatActivity.this, , Toast.LENGTH_SHORT).show();
             try {
                 hisImage=ds.child("image").getValue()+"";
@@ -252,11 +265,18 @@ query.addValueEventListener(new ValueEventListener() {
 
         hashMap.put("message",messageEt.getText().toString());
         databaseReference.child("Chats").push().setValue(hashMap);
-       // Toast.makeText(ChatActivity.this, myUid+" sent "+hisUid, Toast.LENGTH_SHORT).show();
-        //reset editText afetr sending messaeg
+        //reset editText afetr sending message
         messageEt.setText("");
     }
+void checkOnlineStatus(String status){
+        DatabaseReference dberf=FirebaseDatabase.getInstance().getReference("Users").child(myUid);
+    HashMap<String,Object> v=new HashMap<>();
+        v.put("onlineStatus",status);
 
+        // dberf.updateChildren(v);
+
+
+}
     private void checkUserStatus(){
         FirebaseUser user=firebaseAuth.getCurrentUser();
         if(user!= null){
@@ -273,15 +293,22 @@ query.addValueEventListener(new ValueEventListener() {
     @Override
     protected void onStart() {
         checkUserStatus();
-        super.onStart();
-      //  Toast.makeText(ChatActivity.this,"Started",Toast.LENGTH_SHORT).toString();
+
+            super.onStart();
+   checkOnlineStatus("online");
+
+        //  Toast.makeText(ChatActivity.this,"Started",Toast.LENGTH_SHORT).toString();
     }
 
-    @Override
+   /* @Override
     protected void onPause() {
-        super.onPause();
+        String timestamp=String.valueOf(System.currentTimeMillis());
+
+        checkOnlineStatus(timestamp);
         userRefForSeen.removeEventListener(seenListener);
-    }
+
+        super.onPause();
+    }*/
 
 
     @Override
@@ -290,6 +317,13 @@ query.addValueEventListener(new ValueEventListener() {
 
         return super.onCreateOptionsMenu(menu);
     }
+
+  /*  @Override
+    protected void onResume() {
+       checkOnlineStatus("online");
+
+        super.onResume();
+    }*/
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {

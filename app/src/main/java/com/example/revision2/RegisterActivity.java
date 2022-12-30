@@ -88,6 +88,8 @@ private Uri mImageUri;
         // Set BackgroundDrawable
         actionBar = getSupportActionBar();
         actionBar.setBackgroundDrawable(colorDrawable);
+        actionBar.setTitle("REGISTER");
+
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -135,10 +137,11 @@ private Uri mImageUri;
                     hashMap.put ("email", email);
                     hashMap.put ("uid", uid);
                     hashMap.put ("name", ""+username);
+                    hashMap.put ("onlineStatus", "online");
+
                     hashMap.put ("phone", "");
                     if (mImageUri != null)
                         hashMap.put ("image",(fileReference+"").substring(32,(fileReference+"").length())+"");// basically we only need "uploads/1672017241061.jpg"
-                    //this much part to refer to storage in firebase
 else
                         hashMap.put ("image","uploads/1672017241061.jpg"); // default image stored in firebase for users not uploading there images
                     FirebaseDatabase database = FirebaseDatabase.getInstance();
@@ -162,9 +165,9 @@ else
             }
         });   }
 
-    private void openFileChooser() {
+    private    void openFileChooser() {
         Intent intent = new Intent();
-        intent.setType("images/*");
+        intent.setType("image/*");
         intent.setAction(Intent.ACTION_GET_CONTENT);
         startActivityForResult(intent, PICK_IMAGE_REQUEST);
     }
@@ -215,4 +218,6 @@ private void uploadFile() {
 
 }else{
         }
-}}
+}
+
+}

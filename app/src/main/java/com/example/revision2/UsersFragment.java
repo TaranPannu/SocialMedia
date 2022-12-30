@@ -74,12 +74,12 @@ public class UsersFragment extends Fragment {
         mRecyclerView.setHasFixedSize(true);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         //exampleList.add(new example_item("HELLO"));
-
         getAllUsers();
 
         return view;
     }
     private void getAllUsers(){
+
 //get current us
         FirebaseUser fUser = FirebaseAuth. getInstance().getCurrentUser();
 //get path of database named "Users" containing users info

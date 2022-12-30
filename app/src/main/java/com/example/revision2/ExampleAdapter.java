@@ -9,10 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.gms.tasks.OnFailureListener;
@@ -38,7 +36,7 @@ public class ExampleAdapter extends RecyclerView.Adapter<ExampleAdapter.ExampleV
     public void setOnItemClickListener(OnItemClickListener listener) {
         mListener = listener;
     }
-    public ExampleAdapter(     Context mContext,ArrayList<example_item> mExampleList) {
+    public ExampleAdapter(Context mContext, ArrayList<example_item> mExampleList) {
         this.mExampleList = mExampleList;
          this.mContext=mContext;
 

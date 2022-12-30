@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ActionBar actionBar = getSupportActionBar();
-actionBar.setTitle(Html.fromHtml("<font color='#1b1c1b'>Main Activity </font>"));
+actionBar.setTitle(Html.fromHtml("<font color='#1b1c1b'>SocialMedia</font>"));
 
     regBtn=findViewById(R.id.register_btn);
         logBtn=findViewById(R.id.login_btn);
@@ -51,7 +51,8 @@ actionBar.setTitle(Html.fromHtml("<font color='#1b1c1b'>Main Activity </font>"))
     // Set BackgroundDrawable
     actionBar = getSupportActionBar();
     actionBar.setBackgroundDrawable(colorDrawable);
-        regBtn.setOnClickListener(new View.OnClickListener() {
+
+    regBtn.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View view) {
              startActivity(new Intent(MainActivity.this,RegisterActivity.class));

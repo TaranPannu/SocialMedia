@@ -3,19 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_profile_black.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_upload_img.xml" value="0.152" />
         <entry key="app/src/main/res/drawable-anydpi/ic_users_black.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_users_img.xml" value="0.152" />
         <entry key="app/src/main/res/drawable/bg_receiver.xml" value="0.1315" />
         <entry key="app/src/main/res/drawable/bg_sender.xml" value="0.1315" />
         <entry key="app/src/main/res/drawable/ic_face_foreground.xml" value="0.152" />
+        <entry key="app/src/main/res/drawable/ic_send_foreground.xml" value="0.152" />
         <entry key="app/src/main/res/layout/activity_chat.xml" value="0.26246490478515627" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.245623779296875" />
+        <entry key="app/src/main/res/layout/activity_kotlin.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2953125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.2953125" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.20892181396484377" />
         <entry key="app/src/main/res/layout/bg_receiver.xml" value="0.2953125" />
         <entry key="app/src/main/res/layout/example_item.xml" value="0.20186971028645828" />
+        <entry key="app/src/main/res/layout/example_post.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_post.xml" value="0.29583333333333334" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.25604705810546885" />
         <entry key="app/src/main/res/layout/fragment_upload.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/fragment_users.xml" value="0.31839141845703123" />
