@@ -1,4 +1,7 @@
-package com.example.revision2;
+package com.example.revision2
+
+class example_post(var image: String, var title: String, var description: String)
+/*package com.example.revision2;
 
 public class example_post {
 
@@ -34,3 +37,4 @@ public class example_post {
         Description = description;
     }
 }
+*/

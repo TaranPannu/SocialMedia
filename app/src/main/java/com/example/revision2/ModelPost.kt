@@ -1,4 +1,20 @@
-package com.example.revision2;
+package com.example.revision2
+
+class ModelPost {
+    var description: String? = null
+    var title: String? = null
+    var image: String? = null
+
+    constructor(description: String?, title: String?, image: String?) {
+        this.description = description
+        this.title = title
+        this.image = image
+    }
+
+    constructor() {}
+}
+
+/*package com.example.revision2;
 
 public class ModelPost {
     String Description,Title,Image;
@@ -36,3 +52,4 @@ public class ModelPost {
         Image = image;
     }
 }
+*/

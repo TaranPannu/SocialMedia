@@ -1,4 +1,10 @@
-package com.example.revision2;
+package com.example.revision2
+
+class ModelUser(var name: String, var email: String, var phone: String, var uid: String) {
+    var image: String? = null
+
+}
+/*package com.example.revision2;
 
 public class ModelUser{
     String name,email,phone,image,uid;
@@ -49,3 +55,4 @@ public class ModelUser{
         this.name = name;
     }
 }
+*/

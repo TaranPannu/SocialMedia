@@ -1,4 +1,45 @@
-package com.example.revision2;
+package com.example.revision2
+
+class ModelChat {
+    var message: String? = null
+    var receiver: String? = null
+    var sender: String? = null
+    var timestamp: String? = null
+    var image: String? = null
+    var userName: String? = null
+    var isSeen = false
+
+    constructor(
+        isSeen: Boolean,
+        message: String?,
+        receiver: String?,
+        sender: String?,
+        timestamp: String?
+    ) {
+        this.isSeen = isSeen
+        this.message = message
+        this.receiver = receiver
+        this.sender = sender
+        this.timestamp = timestamp
+    }
+
+    constructor(
+        message: String?,
+        sender: String?,
+        timestamp: String?,
+        image: String?,
+        UserName: String?
+    ) {
+        this.message = message
+        this.sender = sender
+        this.timestamp = timestamp
+        this.image = image
+        userName = UserName
+    }
+
+    constructor() {}
+}
+/*package com.example.revision2;
 
 public class ModelChat {
     String message, receiver, sender, timestamp,image,UserName;
@@ -81,3 +122,4 @@ public class ModelChat {
         this.timestamp = timestamp;
     }
 }
+*/

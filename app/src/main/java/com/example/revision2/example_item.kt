@@ -1,4 +1,7 @@
-package com.example.revision2;
+package com.example.revision2
+
+class example_item(var tv: String, var uid: String, var image: String)
+/*package com.example.revision2;
 
 public class example_item {
     String tv;
@@ -34,3 +37,4 @@ public class example_item {
         this.uid = uid;
     }
 }
+*/
