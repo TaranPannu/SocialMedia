@@ -3,14 +3,21 @@
 •	SocialMedia is using Firebase Authentication, Firebase Realtime Database and Firebase Cloud Storage.                    
 • SocialMedia help people to connect with each other by sending and receiving messages.       
 • Object-oriented programming (OOP), Data architecture, Database Designing.            
-•	Programming language:- Java, XML.  
+•	Programming language:- Java, Kotlin, XML.  
 
 <p float="left">
-<img src="app/src/main/res/drawable/03511608-27D1-4E6F-B0FB-5D71FAEE89D6.jpeg" width="250" height="400"/>
-  <img src="app/src/main/res/drawable/4AD1B741-33BD-4CBA-AAF3-444557904425.jpeg" width="250" height="400"/>
-  <img src="app/src/main/res/drawable/D58CD6DC-2BE5-4884-B782-C08CAA10DB7E.jpeg" width="250" height="400"/>
-  <img src="app/src/main/res/drawable/DE96446A-879B-4884-B155-7A9B080D433D.jpeg" width="250" height="400"/>
+  <img src="app/src/main/res/drawable/CB527C68-7B2E-4C29-BAF4-D9D024553788.jpeg" width="250" height="400"/>
+  <img src="app/src/main/res/drawable/68F8395F-2CAA-4211-82C7-7CA175C43909.jpeg" width="250" height="400"/>
+    <img src="app/src/main/res/drawable/863D4636-C040-48E7-A80B-A25258CD1FBD.jpeg" width="250" height="400"/>
+      <img src="app/src/main/res/drawable/F0D6C229-AA62-4CE3-8B09-2D3F5F53BCE2.jpeg" width="250" height="400"/>
+    <img src="app/src/main/res/drawable/6EDCD47B-5A69-4E78-AAE5-5492B9799E40.jpeg" width="250" height="400"/>
+  <img src="app/src/main/res/drawable/7DE1D0F9-665D-4FC9-A538-E351BD2D55A6.jpeg" width="250" height="400"/>
+  <img src="app/src/main/res/drawable/828076E5-4658-495A-B677-545A630EDD57.jpeg" width="250" height="400"/>
+  <img src="app/src/main/res/drawable/836B0873-17FE-4BF5-A702-9FFD57F10B3D.jpeg" width="250" height="400"/>
 
-  <img src="app/src/main/res/drawable/E6387CE6-AC77-40E0-938B-1196256BF7B4.jpeg" width="250" height="400"/>
-  <img src="app/src/main/res/drawable/24B47FC0-C6B7-4193-8CEB-56D245A8EBB9.jpeg" width="250" height="400"/> 
 </p>
+<p float="left">
+ 
+</p>
+
+
