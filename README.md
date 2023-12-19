@@ -21,5 +21,61 @@ Basically, I have done this project in java but I'm making new files in kotlin.
 <p float="left">
  
 </p>
+Libraries used:
+Picasso (version: 2.8)
+Purpose: Image loading library for efficiently loading and caching images.
 
+CircleImageView (version: 3.1.0)
+Purpose: Custom ImageView that displays a circular image.
+
+CardView (version: 1.0.0)
+Purpose: Provides a card-based layout structure.
+
+Firebase BoM (version: 31.0.1)
+Purpose: Bill of Materials (BoM) for Firebase, which helps in managing versions of Firebase dependencies.
+
+Firebase Authentication (version: 21.1.0)
+Purpose: Library for handling user authentication in Firebase.
+
+AppCompat (version: 1.4.1)
+Purpose: Provides backward-compatible versions of Android UI components.
+
+Material Design (version: 1.5.0)
+Purpose: Implements Google's Material Design components and guidelines.
+
+ConstraintLayout (version: 2.1.3)
+Purpose: A flexible layout manager for designing complex UIs in Android.
+
+Volley (version: 1.2.1)
+Purpose: Library for making network requests efficiently.
+
+RecyclerView (version: 1.2.1)
+Purpose: Efficiently displays large sets of data in a scrolling view.
+
+RecyclerView Selection (version: 1.1.0)
+Purpose: Provides support for item selection in RecyclerView.
+
+Firebase Core (version: 21.1.1)
+Purpose: Core library for Firebase services.
+
+Firebase Database (version: 20.1.0)
+Purpose: Library for interacting with the Firebase Realtime Database.
+
+Firebase Storage (version: 17.0.0, 18.1.0)
+Purpose: Library for interacting with the Firebase Cloud Storage.
+
+JUnit (version: 4.13.2)
+Purpose: Testing framework for Java.
+
+Espresso (version: 3.4.0)
+Purpose: Testing framework for UI testing in Android.
+
+Legacy Support Library (version: 1.0.0)
+Purpose: Provides support for older Android versions.
+
+Room (version: 2.4.2)
+Purpose: Persistence library that provides an abstraction layer over SQLite for database operations.
+
+Lifecycle (version: 2.5.0-alpha05)
+Purpose: Provides components to handle Android lifecycle-related tasks.
 
