@@ -1,0 +1,1102 @@
+[
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_city_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_city_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_chat_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_chat_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_back_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_back_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_reels.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_reels.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset1_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset1_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_stone.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_stone.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset1_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset1_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_like_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_like_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_night_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_night_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_more_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_more_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_night_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_night_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_more_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_more_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_city.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_city.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_comment_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_comment_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_home_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_face_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_face_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_light_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_light_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_night.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_night.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_share_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_share_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset2_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset2_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_city_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_city_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset2_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset2_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_face.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_face.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_send_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_send_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset1_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset1_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_hill_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_hill_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_ic_send_foreground.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/ic_send_foreground.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_prof_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_prof_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_chat_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_chat_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_hill.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_hill.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_prof_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxxhdpi/ic_prof_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_profile_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_face.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_face.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_stone_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_stone_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_stone_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_stone_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_send.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_light_background_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_light_background_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_prof_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_prof_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_ic_more_foreground.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/ic_more_foreground.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset2_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset2_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_face.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_face.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_hill_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_hill_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_hill.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_hill.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_stone_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_stone_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_prof1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_prof1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_more_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_more_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_face.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_face.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_night.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_night.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_face_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_face_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_home_black.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_home_black.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_like_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_like_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset2_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset2_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_stone_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_stone_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_prof_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_prof_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_light_background.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_light_background.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset2_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset2_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_city_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_city_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_users_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_users_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_back_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_back_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset1_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset1_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_profile_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_city.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_city.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_stone.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_stone.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_upload_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_upload_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_row_chat_right.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/row_chat_right.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_light_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_light_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_city.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_city.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_send.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_stone.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_stone.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_city.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_city.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset2.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset2.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_more_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_more_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_light_background_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_light_background_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_more_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_more_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_profile_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_hill.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_hill.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_hill_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_hill_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_hill_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_hill_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset2_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset2_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_city.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_city.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_stone_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_stone_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_more_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_more_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_like_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_like_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset2_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset2_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_city_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_city_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_upload_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_upload_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_example_post.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/example_post.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_profile_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_stone_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_stone_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_night.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_night.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_night.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_night.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_stone_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_stone_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_hill_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_hill_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_more_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_more_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_back_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_back_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_face_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_face_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_fragment_post.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/fragment_post.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_night.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_night.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_face_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_face_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_light_background_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_light_background_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_example_item.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/example_item.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_home_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_back_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxxhdpi/ic_back_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_city_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_city_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset2_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset2_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_night_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_night_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_send.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset1.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset1.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_face.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_face.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_sunset_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_sunset_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_night_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_night_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_users_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_users_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_night_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_night_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_users_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_users_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_comment_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_comment_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_light_background.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_light_background.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_comment_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_comment_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_light_background.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_light_background.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_dashboard.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_home_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_prof1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_prof1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_light_background.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_light_background.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_prof1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_prof1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_send_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_send_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_night_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_night_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_comment_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_comment_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_share_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_share_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_upload_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_upload_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_light_background.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_light_background.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_night_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_night_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_bg_receiver.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/bg_receiver.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_prof1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_prof1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_city_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_city_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_fragment_upload.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/fragment_upload.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_city.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_city.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset2_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset2_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_send_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_send_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_hill_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_hill_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_like_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_like_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_more_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_more_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_users_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_users_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_share_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_share_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_upload_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_upload_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_prof1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_prof1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_city_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_city_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_stone.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_stone.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_share_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_share_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_hill_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_hill_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset2.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset2.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_back_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_back_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset2.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset2.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_hill_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_hill_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset2.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset2.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_light_background_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_light_background_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_night_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_night_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_more_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_more_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_city_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_city_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset2.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset2.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_stone_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_stone_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_send.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_hill.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_hill.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_city_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_city_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_chat_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_chat_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_light_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_light_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_users_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_users_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset2_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset2_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_light_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_light_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_prof1.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_prof1.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_stone_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_stone_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_reels.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_reels.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_send.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_light_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_light_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_send_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_send_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_light_background.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_light_background.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_hill_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_hill_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_prof1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_prof1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_home_black.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_row_chat_left.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/row_chat_left.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_chat_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_chat_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_comment_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_comment_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_send_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_send_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_stone_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_stone_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_city_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_city_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_ic_prof1_foreground.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/ic_prof1_foreground.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_kotlin.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_kotlin.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_prof1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_prof1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_prof_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_prof_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_face_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_face_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_prof1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_prof1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_fragment_users.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/fragment_users.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_stone.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_stone.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset1_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset1_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_reels.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_reels.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_hill.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_hill.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_bg_sender.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/bg_sender.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_upload_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-mdpi/ic_upload_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_profile_black.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_profile_black.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_reels.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_reels.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_light_background_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_light_background_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_city_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_city_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_prof1_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_prof1_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_prof1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_prof1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_face.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_face.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_sunset.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_sunset.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/menu_menu_nav.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/menu/menu_nav.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_hill.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_hill.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_sunset1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_sunset1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_stone.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_stone.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_reels.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_reels.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_face_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-hdpi/ic_face_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_night_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_night_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset2_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset2_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_like_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-hdpi/ic_like_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_sunset1.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_sunset1.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_night.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-mdpi/ic_night.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_night_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxxhdpi/ic_night_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_night_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_night_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_more_img.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-anydpi/ic_more_img.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/menu_menu_main.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_stone_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_stone_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_hill_foreground.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_hill_foreground.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_prof1_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_prof1_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_hill_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_hill_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_share_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_share_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_more_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_more_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_send_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_send_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable_ic_face_foreground.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable/ic_face_foreground.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_sunset2.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xhdpi/ic_sunset2.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_light_background_round.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-xxhdpi/ic_light_background_round.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_sunset1_round.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_sunset1_round.xml"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_chat_img.png.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/drawable-xxhdpi/ic_chat_img.png"
+    },
+    {
+        "merged": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_send.xml.flat",
+        "source": "/Users/taranpreetsingh/Desktop/Social_media/SocialMedia/app/src/main/res/mipmap-anydpi-v26/ic_send.xml"
+    }
+]

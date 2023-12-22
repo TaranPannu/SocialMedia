@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="1dp"
+    android:background="@color/black"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:background="@mipmap/ic_light_foreground"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/titl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/userimgpost"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_face_foreground" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Userpost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="7dp"
+                    android:text="User Name"
+                    android:textColor="@color/black"
+
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="7dp"
+                    android:text="20 min"
+
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right"
+                android:background="@null"
+                android:src="@drawable/ic_more_img" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/TitlePost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titl"
+            android:text="TITLE"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:id="@+id/DesPost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TitlePost"
+            android:text="Description"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/ImagePost"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_below="@+id/DesPost"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_face_foreground" />
+        <TextView
+            android:id="@+id/likesPost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ImagePost"
+            android:text="24 likes"
+            android:textColor="@color/material_dynamic_primary0"
+      />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/likesPost"
+    android:gravity="center"
+    android:orientation="horizontal"
+    >
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_like_img"
+android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:layout_weight="1"
+        android:text="like"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+android:drawableLeft="@drawable/ic_comment_img"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:text="comment"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_share_img"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:layout_weight="1"
+        android:text="share"
+        />
+</LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

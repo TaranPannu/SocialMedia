@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#F3C6CD"
+    tools:context=".ChatActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/cardview_dark_background">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profileIv"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_face_foreground" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nameIv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/online"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Online"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:textStyle="italic" />
+        </LinearLayout>
+
+
+    </androidx.appcompat.widget.Toolbar>
+    <!--Recycler view-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chat_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/chatLayout"
+        android:layout_below="@+id/toolbar"
+        android:background="@mipmap/ic_hill_foreground"
+        />
+    <!--send message edit text-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chatLayout"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <!--Input message-->
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/messageEt"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="Start typing"
+            android:padding="15dp"/>
+        <!--Button to send message-->
+        <ImageButton
+            android:id="@+id/imgBtn"
+
+            android:layout_width="40dp"
+            android:layout_height="35dp"
+            android:background="@null"
+            android:src="@drawable/ic_send_foreground" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
