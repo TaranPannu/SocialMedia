@@ -1,5 +1,6 @@
 package com.example.revision2;
 
+import android.content.Context;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -39,6 +40,7 @@ public class UsersFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+    Context thiscontext;
 
     public UsersFragment() {
         // Required empty public constructor
@@ -67,12 +69,16 @@ public class UsersFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+        thiscontext = container.getContext();
+        if (isAdded() && getActivity() != null) {
+            thiscontext=getActivity();
+        }
         View view= inflater.inflate(R.layout.fragment_users, container, false);
 
 
         mRecyclerView=view.findViewById(R.id.recyclerView);
         mRecyclerView.setHasFixedSize(true);
-        mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+        mRecyclerView.setLayoutManager(new LinearLayoutManager(thiscontext));
         //exampleList.add(new example_item("HELLO"));
         getAllUsers();
 

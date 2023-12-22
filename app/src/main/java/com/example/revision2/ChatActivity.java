@@ -184,7 +184,7 @@ query.addValueEventListener(new ValueEventListener() {
         readMessages();
     }
 
-    private void seenMessage() {
+     void seenMessage() {
         userRefForSeen=FirebaseDatabase.getInstance().getReference("Chats");
         seenListener=userRefForSeen.addValueEventListener(new ValueEventListener() {
             @Override
@@ -214,7 +214,7 @@ query.addValueEventListener(new ValueEventListener() {
         });
     }
 
-    private void readMessages() {
+    void readMessages() {
         chatList =new ArrayList<>();
         DatabaseReference dbRef=FirebaseDatabase.getInstance().getReference("Chats");
         dbRef.addValueEventListener(new ValueEventListener() {
@@ -249,7 +249,7 @@ query.addValueEventListener(new ValueEventListener() {
         });
     }
 
-    private void sendMessage(String message) {
+     void sendMessage(String message) {
 
         DatabaseReference databaseReference=FirebaseDatabase.getInstance().getReference();
         String timestamp=String.valueOf(System.currentTimeMillis());
@@ -277,7 +277,7 @@ void checkOnlineStatus(String status){
 
 
 }
-    private void checkUserStatus(){
+   void checkUserStatus(){
         FirebaseUser user=firebaseAuth.getCurrentUser();
         if(user!= null){
             myUid=user.getUid();// currently signed in user uid

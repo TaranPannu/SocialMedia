@@ -23,20 +23,21 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.HashMap;
 
 public class DashboardActivity extends AppCompatActivity {
-    FirebaseAuth firebaseAuth;
+   // FirebaseAuth firebaseAuth;
     ActionBar actionBar;
     String myUid;
-    DatabaseReference userRefForSeen;
+    //DatabaseReference userRefForSeen;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
+        Toast.makeText(DashboardActivity.this, " Successfull", Toast.LENGTH_SHORT).show();
 
         //ActionBAr and its title
         actionBar=getSupportActionBar();
         actionBar.setTitle("Profile");
-        firebaseAuth =firebaseAuth.getInstance();
+       // firebaseAuth =firebaseAuth.getInstance();
         BottomNavigationView navigationView=findViewById(R.id.navigation);
         ColorDrawable colorDrawable
                 = new ColorDrawable(Color.parseColor("#545352"));
@@ -44,14 +45,11 @@ public class DashboardActivity extends AppCompatActivity {
         actionBar = getSupportActionBar();
         actionBar.setBackgroundDrawable(colorDrawable);
 
-        navigationView.setOnItemSelectedListener(selectedListener);
+       navigationView.setOnItemSelectedListener(selectedListener);
 
 // default on start
         actionBar.setTitle ("Start") ;
-        ProfileFragment fragment1 = new ProfileFragment ();
-        FragmentTransaction ft1 = getSupportFragmentManager () .beginTransaction();
-        ft1.replace(R.id.fragment_container, fragment1,  "");
-        ft1.commit ();
+
     }
 
  public NavigationBarView.OnItemSelectedListener selectedListener =
@@ -107,7 +105,7 @@ public class DashboardActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
-    @Override
+   /* @Override
     public boolean onOptionsItemSelected(MenuItem item){
 
         int id=item.getItemId();
@@ -117,7 +115,7 @@ public class DashboardActivity extends AppCompatActivity {
 
         }
         return super.onOptionsItemSelected(item);
-    }
+    }*/
     void checkOnlineStatus(String status){
         DatabaseReference dberf= FirebaseDatabase.getInstance().getReference("Users").child(myUid);
         HashMap<String,Object> v=new HashMap<>();
@@ -127,7 +125,7 @@ public class DashboardActivity extends AppCompatActivity {
         }catch (Exception e){
             Toast.makeText(this, ""+e, Toast.LENGTH_SHORT).show();
         }}
-    private void checkUserStatus(){
+   /* private void checkUserStatus(){
         //get Current user
         FirebaseUser user=firebaseAuth.getCurrentUser();
         if(user!=null){
@@ -136,5 +134,5 @@ myUid=user.getUid();
             startActivity(new Intent(DashboardActivity.this,MainActivity.class));
             finish();;
         }
-    }
+    }*/
 }

@@ -111,7 +111,7 @@ private Uri mImageUri;
                 uploadFile();
                 String em=email.getText().toString().trim();
                 String pass=password.getText().toString().trim();
-                if (!Patterns.EMAIL_ADDRESS.matcher (em) .matches()) {
+                if (!Patterns.EMAIL_ADDRESS.matcher (em) .matches() || !RegisterActivity_Tests(em,pass)) {
                     email.setError("Invalid Email");
                     email.setFocusable (true) ;
                 }else if (password.length() < 6) {
@@ -219,5 +219,10 @@ private void uploadFile() {
 }else{
         }
 }
+    static Boolean RegisterActivity_Tests(String email, String pass){
+        if(email.equals("") || pass.equals(""))return false;
+        if(pass.length()<6)return false;
 
+        return true;
+    }
 }

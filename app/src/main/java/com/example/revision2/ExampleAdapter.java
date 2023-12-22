@@ -55,6 +55,7 @@ public class ExampleAdapter extends RecyclerView.Adapter<ExampleAdapter.ExampleV
         holder.mTextView1.setText(currentItem.getTv());
         try {
             mStorageRef = FirebaseStorage.getInstance().getReference(currentItem.getImage());
+
             {
                 File file=File.createTempFile("tempfile",".jpg");
                 mStorageRef.getFile(file).addOnSuccessListener(new OnSuccessListener<FileDownloadTask.TaskSnapshot>() {
@@ -62,6 +63,9 @@ public class ExampleAdapter extends RecyclerView.Adapter<ExampleAdapter.ExampleV
                     public void onSuccess(FileDownloadTask.TaskSnapshot taskSnapshot) {
                         Bitmap bitmap= BitmapFactory.decodeFile(file.getAbsolutePath());
                         holder.image.setImageBitmap(bitmap);
+                   //     Picasso.get().load(R.drawable.ic_face_foreground).into(holder.image); gpt why picasso is not working here
+
+
                     }
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override

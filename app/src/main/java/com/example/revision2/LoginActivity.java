@@ -25,6 +25,8 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.HashMap;
 
 public class LoginActivity extends AppCompatActivity {
@@ -64,10 +66,11 @@ actionBar.setTitle("LOGIN");
         LoginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+             //   LoginUser("abc@gmail.com","123456");
                 String email1 = emailET.getText ().toString();
                 String password1 = password.getText().toString() .trim();
-                if (!Patterns.EMAIL_ADDRESS.matcher (email1) .matches()) {
+
+                if (!Patterns.EMAIL_ADDRESS.matcher (email1).matches() || !Check_email_password(email1,password1)) {
                     emailET.setError("Invalid Email");
                     emailET.setFocusable (true) ;
                //     LoginUser("t@gmail.com","123456");
@@ -113,4 +116,13 @@ actionBar.setTitle("LOGIN");
             }
         });
     }
+
+    static Boolean Check_email_password(String email, String pass){
+        if(email.equals("") || pass.equals(""))return false;
+        if(pass.length()<6)return false;
+
+        return true;
+    }
+
+
 }
