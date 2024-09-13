@@ -15,7 +15,6 @@ Basically, I have done this project in java but I'm making new files in kotlin.
     <img src="app/src/main/res/drawable/drawable/6EDCD47B-5A69-4E78-AAE5-5492B9799E40.jpeg" width="250" height="400"/>
   <img src="app/src/main/res/drawable/drawable/7DE1D0F9-665D-4FC9-A538-E351BD2D55A6.jpeg" width="250" height="400"/>
   <img src="app/src/main/res/drawable/drawable/828076E5-4658-495A-B677-545A630EDD57.jpeg" width="250" height="400"/>
-  <img src="app/src/main/res/drawable/drawable/836B0873-17FE-4BF5-A702-9FFD57F10B3D.jpeg" width="250" height="400"/>
 
 </p>
 <p float="left">
