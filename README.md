@@ -1,4 +1,4 @@
-# SocialMedia
+# BuzzCircle - Social Media Clone 
 •	SocialMedia is Native Mobile app, Using Firebase as a back-end server.                       
 •	SocialMedia is using Firebase Authentication, Firebase Realtime Database and Firebase Cloud Storage.                           
 • Object-oriented programming (OOP), Data architecture, Database Designing.            
