@@ -1,4 +1,4 @@
-package com.example.revision2
+package com.example.revision2.DataClass
 
 class example_item(var tv: String, var uid: String, var image: String)
 /*package com.example.revision2;

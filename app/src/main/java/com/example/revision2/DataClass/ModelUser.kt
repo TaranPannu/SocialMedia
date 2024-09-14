@@ -1,4 +1,4 @@
-package com.example.revision2
+package com.example.revision2.DataClass
 
 class ModelUser(var name: String, var email: String, var phone: String, var uid: String) {
     var image: String? = null

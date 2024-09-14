@@ -1,4 +1,4 @@
-package com.example.revision2
+package com.example.revision2.DataClass
 
 class ModelPost {
     var description: String? = null

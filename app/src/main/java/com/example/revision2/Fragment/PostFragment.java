@@ -1,4 +1,4 @@
-package com.example.revision2;
+package com.example.revision2.Fragment;
 
 import android.os.Bundle;
 
@@ -11,6 +11,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.example.revision2.Adapters.AdapterPost;
+import com.example.revision2.DataClass.example_post;
+import com.example.revision2.R;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

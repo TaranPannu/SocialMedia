@@ -1,4 +1,4 @@
-package com.example.revision2;
+package com.example.revision2.Adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,6 +13,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.revision2.ChatActivity;
+import com.example.revision2.DataClass.example_item;
+import com.example.revision2.R;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.storage.FileDownloadTask;

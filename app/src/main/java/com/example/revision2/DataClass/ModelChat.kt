@@ -1,4 +1,4 @@
-package com.example.revision2
+package com.example.revision2.DataClass
 
 class ModelChat {
     var message: String? = null

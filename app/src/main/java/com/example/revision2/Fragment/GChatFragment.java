@@ -1,4 +1,4 @@
-package com.example.revision2;
+package com.example.revision2.Fragment;
 
 import android.os.Bundle;
 
@@ -14,6 +14,9 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import com.example.revision2.Adapters.AdapterChat;
+import com.example.revision2.DataClass.ModelChat;
+import com.example.revision2.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
